@@ -12,6 +12,7 @@ The IntelComp platform allows access to its source code to users or developers.
 
 The repositories hosting the IntelComp Applications and AI toolboxes in GitHub are open source to facilitate their use and expansion beyond the scope of the project. Users can choose the applications and customize and integrate them in their own processes.
 
+![IntelCompH2020 acknowledgement banner](https://github.com/IntelCompH2020/.github/blob/main/profile/banner.png)
 <!--
 
 **Here are some ideas to get you started:**
