@@ -1,6 +1,6 @@
 ## [IntelComp H2020 project](https://intelcomp.eu/)
 
-**A Competitive Intelligence Cloud/High Performance Computing Platform for Artificial Intelligence-based Science, Technology and Innovation Policy Making**
+***A Competitive Intelligence Cloud/High Performance Computing Platform for Artificial Intelligence-based Science, Technology and Innovation Policy Making***
 
 Large Science, Technology and Innovation (STI) datasets are processed on High Performance Computing (HPC) environment part of the European Open Science Cloud (EOSC) imitative. Public administration at all geographical and organizational levels, STI stakeholders and civil society produce a great amount of dynamic, multilingual and heterogeneous data (i.e. national STI strategies, plans and work programmes, calls, projects, reports, scientific publications, patents, dissemination articles, etc.), so understanding and analyzing this data is crucial for evidence-based policy making.
 
